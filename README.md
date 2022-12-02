@@ -6,6 +6,6 @@
   <img src="Media/02.png" width="161px">
 </a>
 <a href="2022/01/01.kt">
-  <img src="Media/02.png" width="161px">
+  <img src="Media/01.png" width="161px">
 </a>
 <!-- AOC TILES END -->
