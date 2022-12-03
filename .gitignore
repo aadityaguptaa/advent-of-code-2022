@@ -2,5 +2,5 @@
 .idea
 build
 src/**/*.txt
-session.cookie
+/session.cookie
 aoctiles
